@@ -1,4 +1,4 @@
-This is a [The new portal ](https://24-news-portal.vercel.app/) project 
+This is a [https://24-news-portal.vercel.app/ ](https://24-news-portal.vercel.app/) project 
 
 
 ## Getting Started
